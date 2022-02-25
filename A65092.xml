@@ -1,0 +1,494 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two petitions of Thomas Violet of London goldsmith, to the Kings Majestie I. Seting forth the great abuses practised by the makers of gold and silver thread, wire, lace, to the great waste of the stock and treasure of the kingdome, in culling and melting down the heavy currant silver. II. One hundred &amp; twelve several parcels of course and adulterate silver lace, ... Mr. Alexander Jackson, who is sworne assay-maker at Goldsmiths Hall, ... III. Ten several heads or branches certified by the Committee of Trade the 17th of June 1657. seting forth the several abuses in making gold and silver lace, wire, and thread; ... IV. Thomas Violet's petition to the Right Honourable, several Lords of the Privy Council, who are appointed a committee for the removing the obstructions of the mint, ...to present to your Lordships such rules, orders, and instructions for the due vending, and uttering of the said manufactures, ... for the ends expressed.</title>
+            <author>Violet, Thomas, fl. 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65092</idno>
+            <idno type="STC">Wing V594A</idno>
+            <idno type="STC">ESTC R222530</idno>
+            <idno type="EEBO-CITATION">99833693</idno>
+            <idno type="PROQUEST">99833693</idno>
+            <idno type="VID">38171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38171)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2068:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two petitions of Thomas Violet of London goldsmith, to the Kings Majestie I. Seting forth the great abuses practised by the makers of gold and silver thread, wire, lace, to the great waste of the stock and treasure of the kingdome, in culling and melting down the heavy currant silver. II. One hundred &amp; twelve several parcels of course and adulterate silver lace, ... Mr. Alexander Jackson, who is sworne assay-maker at Goldsmiths Hall, ... III. Ten several heads or branches certified by the Committee of Trade the 17th of June 1657. seting forth the several abuses in making gold and silver lace, wire, and thread; ... IV. Thomas Violet's petition to the Right Honourable, several Lords of the Privy Council, who are appointed a committee for the removing the obstructions of the mint, ...to present to your Lordships such rules, orders, and instructions for the due vending, and uttering of the said manufactures, ... for the ends expressed.</title>
+                  <author>Violet, Thomas, fl. 1634-1662.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold --  England --  Early works to 1800.</term>
+               <term>Silver --  England --  Early works to 1800.</term>
+               <term>Goldsmiths --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38171:1" rendition="simple:additions"/>
+            <p> TWO PETITIONS OF <hi>THOMAS VIOLET</hi> of LONDON <hi>Goldſmith,</hi> TO THE KINGS Majeſtie: I. Seting forth the great abuſes practiſed by the makers of Gold and Silver Thread, Wire, Lace, to the great waſte of the Stock and Treaſure of the Kingdome, in culling and melting down the heavy currant Silver. II. One hundred &amp; twelve ſeveral parcels of courſe and adulterate Silver Lace, ſould for good Silver by ſeveral Shopkeepers in <hi>London;</hi> all theſe aſſayes certified under the hands of Mr. <hi>Alexander Jackſon,</hi> who is ſworne Aſſay-Maſter at Gold<g ref="char:EOLhyphen"/>ſmiths Hall, which Silver was courſe and adultrate, under Sterling, being all wrought againſt the Law. III. Ten ſeveral Heads or Branches certified by the Committee of Trade the 17<hi rend="sup">th</hi> of <hi>June</hi> 1657. ſeting forth the ſeveral abuſes in making Gold and Silver Lace, Wire, and Thread; and ſeveral waies ſet down for the preventing the ſame for the future, to which I humbly referre. IV. <hi>Thomas Violet's</hi> Petition to the Right Honourable, ſeveral LORDS of the PRIVY COUNCIL, who are appointed a Committee for the removing the obſtructions of the Mint, that their Honours would be be pleaſed to take Order for the Regulating of this Trade, and pre<g ref="char:EOLhyphen"/>vent the abuſes put upon the wearers of Gold and Silver Lace, and for their fuller information, that an Order may be directd from the LORDS of the COUNCIL to the Company of Goldſmiths, requiring them for His MAIESTIES ſervice, that they forthwith take into conſideration, to preſent to your Lordſhips ſuch Rules, Orders, and Inſtructions for the due vending, and uttering of the ſaid Manufactures, as they in their great experience ſhall find moſt neceſſary for the ends expreſſed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1661.</p>
+            <pb facs="tcp:38171:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:38171:2"/>
+            <head>TO THE KINGS MOST Excellent Majeſtie: And to the LORDS of His MAJESTIES moſt Honourable PRIVY COUNCIL. <hi>The humble Petition of</hi> Thomas Violet <hi>Goldſmith.</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Majeſties Royal Father of bleſſed memory, upon complaint to him made by many Perſons, Noblemen, Gentlemen, Goldſmiths, and others; and alſo to his Majeſties Privy Councel, as appears by Or<g ref="char:EOLhyphen"/>ders of the Privy Council the 25. of <hi>January</hi> 1634. ſhewing,</p>
+            <p>That much courſe Gold &amp; Silver Lace, Gold and Silver Thread, Spangles, Oaes and Wyre, was daily in great quantities ſould for good Silver, to the great dammage and hinderance of the Mint, in the exceſſive quantities made for inferior perſons. And that great quanti<g ref="char:EOLhyphen"/>ties of Engliſh heavy Silver money, was culled, and melted down daily, for the making of theſe Manufactures, to the great waſt of the ſtock of currant Silver, and to the daily deceit of the wearers of Gold and Silver Lace.</p>
+            <p>And by Order of ſome of your Majeſties Royal Fathers Privy Coun<g ref="char:EOLhyphen"/>cil, <hi>viz.</hi> Mr. Secretary <hi>Cook,</hi> your Petitioner, and ſome others, were imployed to buy up ſeveral parcels of Silver Lace, in ſeveral Silk-men,
+<pb n="2" facs="tcp:38171:3"/> and Wyerdrawers Shops in London: and thereupon your Petitioner, and ſome others, brought the ſaid Lace, Spangles, Wyer, Purles, Oaes, to Mr. <hi>Alexander Jackſon</hi> Aſſay-Maſter of Goldſmiths-Hall, and he Aſ<g ref="char:EOLhyphen"/>ſayed about one hundred and twelve ſeveral parcels of Gold and Silver Lace, Spangles, Thread, Wyer, <hi>&amp;c.</hi> as appears under his hand. All theſe Aſſaies being by him the ſworne Officer appointed for that ſervice, found, and reported to be all made of courſe and adultrate Silver, mixed with Copper, contrary to the Law, being vended, for good Silver; and the Gentleman is now living, a man of great experience, skill, and credit, that can atteſt this, to be true to your Majeſties Privy Council.</p>
+            <p>And your Petitioner hath the names of the ſeveral mens Houſes and Shops of the Silk-men, Wyerdrawers, and others, and the day, and the year, this courſe adultrate Silver was by them ſould: Theſe original Papers your Petitioner hath ready to produce to your Majeſtie, and your moſt honourable Council.</p>
+            <p>Thereupon his late Majeſty, and his Privy Council, commanded Sir <hi>John Banks,</hi> your Majeſties Father Attorney General, to put ſome of the eminent of the Offendors into the <hi>Star-Chamber;</hi> and thereupon both Refiners and Wyerdrawers petitioned his Majeſty for a Corpora<g ref="char:EOLhyphen"/>tion, and that they would ſo order themſelves, that theſe abuſes being ſo many, and fully proved, ſhould all be regulated and prevented for the future. But upon full examination at the Privy Council, his Majeſty, and the Lords, being fully poſſeſſed what had formerly been acted by the Wyerdrawers for ſeveral years. When they had a Cor<g ref="char:EOLhyphen"/>poration, that the abuſes continued ſo notoriouſly notwithſtanding the Wyerdrawers Charter, that their Corporation was damned in Par<g ref="char:EOLhyphen"/>liament, about the latter end of King <hi>James</hi>'s time, in a quiet time, this was done, and Sir <hi>Giles Monperſons</hi> had like to be undone for pro<g ref="char:EOLhyphen"/>curing the Wyerdrawers to have a Corporation, as will appear in the Parliament Records to which I humbly referre.</p>
+            <p>It was demonſtrated in that Parliament, before your Majeſties Royal Father, being then Prince, that the Wyerdrawers made Silver Wyer with a core of Copper, and ſould the ſame for fine Silver; your Majeſties Royal Father remembring this, was both ſhewed, and pro<g ref="char:EOLhyphen"/>ved in the Parliament Houſe of Lords, he being then preſent, would not truſt the Wyerdrawers with a Corporation, 1635. his Majeſtie ſaying, <hi>That would give the Gold Wyerdrawers an opportunitie to cozen the King<g ref="char:EOLhyphen"/>dome againe;</hi> they having cozened the Kingdome of above twenty thouſand pounds a year, by deceitful making theſe Manufactures, and venting the ſame for good, for theſe laſt twenty years.</p>
+            <p>
+               <hi>May it pleaſe your Majeſtie,</hi> your Royal Father upon debate, and advice of his Privy Council, taking ſpecial notice of your Petitioners activitie and abilitie to diſcover, and reforme theſe abuſes, in conſi<g ref="char:EOLhyphen"/>deration of theſe ſervice, did by his Letters Pattents appoint your
+<pb n="3" facs="tcp:38171:3"/> Petitioner for three lives, and the longer liver of them, to have, and take the charge and care to be the Surveyers, Tryers, Sealers, Aſ<g ref="char:EOLhyphen"/>ſayers of all Gold and Silver Wyer, Thread, Purles, Oaes, Spangles, and all other Manufactures of this ſort, and to Mark, Regiſter, Seal, or Aſſay the ſame, before any of theſe Manufactures ſhould be ex<g ref="char:EOLhyphen"/>poſed to ſaile; with power given to your Petitioner, to ſearch for, and ſeaze on all courſe and adultrate Silver, made into any of the aforeſaid Manufactures, and to burn, and deface the ſame, according to the Law, to ſuffer no Silver to be wrought into any of theſe Manufactures, or put to ſaile, but Sterling Silver at the leaſt.</p>
+            <p>Your Petitioner hath two lives yet in being, his own life, and a<g ref="char:EOLhyphen"/>nothers, under the great Seal, for the grant and allowance of one half penny the ounce Troy for all Silver Wyer, Spangles, Purles, Oaes, and four pence the pound Venice, which is one half peny the ounce Troy for ſealing or ſurveying all Gold and Silver Thread, <hi>&amp;c.</hi>
+            </p>
+            <p>For the conſideration of theſe Fees, your Petitioner did keep, and is bound to keep at his own charge ſeveral perſons to give their at<g ref="char:EOLhyphen"/>tendance to Survey or Aſſay all Gold or Silver Wyer, Thread, Spang<g ref="char:EOLhyphen"/>les, <hi>&amp;c.</hi> to pay Houſe-rent, books, wax, fire, coles, <hi>&amp;c.</hi> and to warrant to all perſons whomſoever, that all Gold and Silver Wyer drawn at the Office appointed by your Majeſties Royal Fathers Proclamation, ſhould all be made of good Silver, none under Ster<g ref="char:EOLhyphen"/>ling, or the Standard.</p>
+            <p>And if it ſhould chance any perſon or perſons to be wronged in the premiſes, and buy Gold and Silver Wyer, Thread, or Lace, made and drawn, and ſealed in the ſaid Office, by your Petitioner, or his Servants, that then your Petitioner ſhould pay full damages to any Perſon that could find out, or diſcover the ſame.</p>
+            <p>And your Majeſties Royal Father ſet forth his Proclamation, and appointed by his Commiſſioners under the great Seal, ſome of His moſt honourable Privy Council, his Attorney and Solicitor General, and Maſters of Requeſt, and Clarks of the Council, His Officers of the Mint, and ſome eminent Aldermen to be His Commiſſioners, giving them inſtructions under his Majeſties ſign Manual, this being done 1635. by the advice of His Privy Council, after many daies hearing at the Council Table.</p>
+            <p>Theſe Gentlemen ſate every week one day, and five made a Com<g ref="char:EOLhyphen"/>mittee, and ſometimes more, to regulate and reſtrain the abuſes, and they cauſed ſome of the Offenders to be ſet in the Pillory, being indi<g ref="char:EOLhyphen"/>cted at <hi>Newgate;</hi> and in the compaſſe of ſix years, brought the work<g ref="char:EOLhyphen"/>men, and all people trading in this Manufacture, into that good order and decorum, that all Gold and Silver Lace, Thread, Wyer, <hi>&amp;c.</hi> was
+<pb n="4" facs="tcp:38171:4"/> as exactly made as the Plate or moneys of the Kingdom, the numbers of Workmen regulated, a due Proportion of Silver to Silk, whereby this Ma<g ref="char:EOLhyphen"/>nufacture was made the beſt in <hi>London</hi> of any place in <hi>Chriſtendom,</hi> and your Petitioner ſeeing all orders and rules ſetled and made by the Commiſ<g ref="char:EOLhyphen"/>ſioners, or any five of them to be duly executed, was the principal cauſe of that Reformation that followed. This Regulation was complained of in Parliament, 1640. but upon Examination all Parties put to take their Re<g ref="char:EOLhyphen"/>medy by the Law, and I have in all times juſtified the Regulation. <note place="margin">Your Petitioner being 1641. firſt ſent by the Par<g ref="char:EOLhyphen"/>liament a Priſon<g ref="char:EOLhyphen"/>er to <hi>Peter</hi> houſe then a ſhip board to the Kings Bench: &amp; in the year 1643. ſent cloſe Priſoner to the <hi>Tower</hi> for near four years, being kept in a dungeon 928 daies of that time, and had my eſtate plundred, to the valew of eleven thouſand pounds, and my damage at this day above twen<g ref="char:EOLhyphen"/>ty thouſand pounds, and threatned to be ſent for a ſlave to <hi>Argier,</hi> for bringing from your Majeſties Royal Father from <hi>Oxford</hi> 1643 a Letter for peace to the Ci<g ref="char:EOLhyphen"/>ty of <hi>London.</hi> In all I was a<g ref="char:EOLhyphen"/>bout eight years a Priſoner.</note>
+            </p>
+            <p>But upon the perſecution of the long Parliament, your Petition<g ref="char:EOLhyphen"/>er went to your Royal Father to <hi>York,</hi> and the honourable Commiſſion<g ref="char:EOLhyphen"/>ers appointed for the regulating this Manufacture, being Privy Counſel<g ref="char:EOLhyphen"/>lors, and other eminent Officers of the Kingdom. Theſe Gentlemen, al<g ref="char:EOLhyphen"/>moſt all of them, according to their duties, followed your Majeſties Royal Father in all his Troubles, but ſince, length of Time, fortune of the Warres, and other caſualties, almoſt all of theſe Honourable Councel<g ref="char:EOLhyphen"/>lors are dead, by whoſe wiſdom and care theſe abuſes were regulated, and this Regulation afterwards neglected, the heavy coines melted, Silver ſlightly and adulterately made, to the damage of the Kingdom many hun<g ref="char:EOLhyphen"/>dred thouſand pounds within this twenty years.</p>
+            <p>In your Petitioners Patent under the Great Seal of <hi>England,</hi> there is this Proviſoe, that if hereafter the Government or Regulation of this Ma<g ref="char:EOLhyphen"/>nufacture by Commiſſioners, be altered or changed into any other form, or any other Proclamation for the regulating this Manufacture, yet your Petitioners Grant, with his Fees and Powers, ſhould be, and continue firme, good and effectual in the Law, as appears by your Petitioners Pa<g ref="char:EOLhyphen"/>tent, dated 7 <hi>Sept.</hi> 14. <hi>Car.</hi> which Patent taken out of the Rolls, your Petitioner hath left with the Honourable Mr. Attorney General, with a Petition to your Majeſtie, formerly referred to the Right Honourable the Lords Commiſſioners of your Majeſties Treaſury, touching the Regula<g ref="char:EOLhyphen"/>tion of this buſineſſe, 15. <hi>Sept.</hi> 1661.</p>
+            <p>Your Petitioners humble prayer to your Majeſtie is, that your Majeſty would ſpeedily prevent the great abuſes and diſorders daily practiſed, in the undue making of Gold and Silver Thread, Wire, Lace, Spangles, and the unlawful melting of the heavy current ſilver Coines, there being above twenty thouſand pounds a year waſted and bruiſed away, by thin and ſlight making of Silver Lace, for the private profit of the Wiredrawers, which if it were duly made, would all be returned to the melting Pot, and avoid that waſte of Treaſure, that by order of your Majeſtie and your Privy Councel, all perſons as formerly, from 1635. to 1641. be enjoyned to the due eſſaying of all Silver Wire at the Bar, and the Thread ſealed, and true Regiſters kept of all Gold and Silver employed in this Manufacture, and all Bars and Engines brought into one place, according to the Pro<g ref="char:EOLhyphen"/>clamation
+<pb n="5" facs="tcp:38171:4"/> of your Majeſties Royal Father, in the 11th. year of his Reign, that ſo your Majeſtie may have a true Accompt what Silver is ſpent in this Manufacture, and ſo regulate the Exceſs, which is to the prejudice of your Mint, that baſe and inferior perſons may not weare the ſame.<note place="margin">I humbly be<g ref="char:EOLhyphen"/>ſeech your Ma<g ref="char:EOLhyphen"/>jeſty to read the Reaſons of the Committee for Trade, <hi>fol.</hi> 11. 10. Head<g ref="char:punc">▪</g> never to truſt the wire<g ref="char:EOLhyphen"/>drawers with a Corporation, or with the rule &amp; government of this Manufa<g ref="char:EOLhyphen"/>cture. And then if your Majeſty be pleaſed to compare what your royal Fa<g ref="char:EOLhyphen"/>ther of bleſſed memory obſerv<g ref="char:EOLhyphen"/>ed of theſe wire<g ref="char:EOLhyphen"/>drawers in the Parliament, when he was Prince, that they had deceived their truſt, and he would not truſt them again. they have coz<g ref="char:EOLhyphen"/>ened the King<g ref="char:EOLhyphen"/>dome within theſe twenty years of above twenty thouſand pounds a year, in ſlight, courſe, and deceitful ſilver lace, and now are endea<g ref="char:EOLhyphen"/>voring to get a Corporation, to work in iniquity by a Law, if your Majeſty prevent it not. </note>
+            </p>
+            <p>And that your Petitioner may be required to continue his Searches ſo often as he ſhall finde juſt occaſion, to ſeize all courſe Silver, under ſter<g ref="char:EOLhyphen"/>ling, made or making into any of theſe Manufactures, and to deface the ſame, returning the material to the Owner as ſoon as they are defaced, according to his Patent, that no Gold or Silver Lace be hereafter mixed in any part with Copper, or made under ſterling.</p>
+            <p>For the better enabling your Petitioner to do this ſervice, your Peti<g ref="char:EOLhyphen"/>tioner humbly prayes your Majeſtie to renew your Royal Fathers former Commiſſion 1635. with ſuch alterations and additions, as your Majeſtie and your Privy Councel, with the Attorney General ſhall judge fit, for the perſons and the powers to be your Majeſties Commiſſioners for this buſineſs.</p>
+            <p>Or elſe if your Majeſtie and your Privy Councel ſhall think it meet for your ſervice, and the fuller diſcovery of theſe abuſes, (never ſuffer the Gold Wiredrawers to have a Corporation.) But if your Majeſtie, by advice of your Privy Councel, command the Corporation of Goldſmiths, by reaſon the regulating of Gold and Silver is a particular branch of their Trade, that they be required by your Majeſtie to take and view the for<g ref="char:EOLhyphen"/>mer regulation of this Manufacture, as it was ſetled by Commiſſioners, from the year 1635. to 1641. and to conſider of ſuch alterations and ad<g ref="char:EOLhyphen"/>ditions for the due Regulation of this Manufacture, that all abuſes now practiſed in the Workmaſters, Workmen, Traders and Venders of this Commodity, may for the future be prevented; your Majeſtie, Nobility, and Gentry duly ſerved with good Silver Lace, which maintaines by Ma<g ref="char:EOLhyphen"/>nufacture many thouſand people in the City of <hi>London.</hi>
+            </p>
+            <p>All Gold and Silver Wire drawn at the Office for any of theſe aforeſaid Manufactures, of Lace, Thread, Embroidery, to be effayed and warrant<g ref="char:EOLhyphen"/>ed to be good Sllver by your Petitioner, as he hath put in Security into the Exchecquer, or to pay the damage.</p>
+            <p>That the Company of Goldſmiths, as often as occaſion ſhall require, ſhall from time to time propound ſuch Rules and Orders, for the due making, vending, and uttering the ſame Manufactures, as they in their experience ſhall finde moſt neceſſary for the ends expreſſed, and being required by your Majeſtie, for their daily aſſiſting, adviſing, and coun<g ref="char:EOLhyphen"/>ſelling your Petitioner to diſcharge the Truſt and Duty of his Place, ac<g ref="char:EOLhyphen"/>cording to his Grant under the Great Seal, that ſo all the former abuſes for the future may be prevented, and the credit of this manufacture reſtored, and your Petitioner encouraged to do his duty, to diſcover theſe abuſes, and for to incourage the Goldſmiths Company to look carefully after this
+<pb n="6" facs="tcp:38171:5"/> buſineſſe, that after the Expiration of your Petitioners Grant, by your Majeſties grace and goodneſſe, the Powers, Fees and Salaries granted to your Petitioner, to enable him to do this ſervice, may for ever be fixed and annexed to the Company of Goldſmiths and their Succeſſors, they then putting in Security in fifteen hundred pounds into the Exchecquer, as your Petitioner hath done already, for the warranting all Gold and Silver Wire drawn as aforeſaid, for making any the aforeſaid Manufa<g ref="char:EOLhyphen"/>ctures to be good Silver, and that the Company of Goldſmiths by your Majeſties Gracious Reference, be commanded to certifie your Majeſties Privy Councel, and your Attorney General, of ſuch wayes and Rules they ſhall find beſt to prevent theſe abuſes, your Majeſtie being graci<g ref="char:EOLhyphen"/>ouſly pleaſed to recommend the ſame to your Parliament, to have this Re<g ref="char:EOLhyphen"/>gulation ſetled on the Goldſmiths by Parliament. This will perfect the Reformation, and prevent the daily abuſes put on the Wearers of Gold and Silver Lace, when the Company of Goldſmiths that are Artiſts, but no Traders in this Manufacture, ſhall be bound to warrant the ſame to all perſons, and to ſurvey and ſee the Gold Wiredrawers do their duty. <note place="margin">May it pleaſe your Majeſty, I have ſpoken with he Compa<g ref="char:EOLunhyphen"/>ny of Gold<g ref="char:EOLhyphen"/>ſmiths about a month ſince, who have declared to me, that if your Majeſty, or your Privy Council ſend them your com<g ref="char:EOLhyphen"/>mands to ſet down the waies and rules, to the beſt of their skil for this Regula<g ref="char:EOLhyphen"/>tion, they will withal redineſs humbly do it; and if theſe rules be approved on with ſuch alter<g ref="char:EOLhyphen"/>ations as your Majeſty, &amp; your Privy Council ſhall judge fit, and by your Ma<g ref="char:EOLhyphen"/>jeſty recomend<g ref="char:EOLhyphen"/>ed to the Parlia<g ref="char:EOLhyphen"/>ment, and by them approved; they tell me this is the only cer<g ref="char:EOLhyphen"/>tain and ſafe way for them to act, to reforme this abuſe, which the Goldſmiths have confeſſed, they know is a great ſhame to the Kingdome, that the Nobili<g ref="char:EOLunhyphen"/>ty and Gentry ſhould be ſo dai<g ref="char:EOLhyphen"/>ly deceived as they are, in courſe ſlight, a<g ref="char:EOLhyphen"/>dulterate ſilver lace, wyer, ſpang<g ref="char:EOLhyphen"/>les, thread, <hi>&amp;c.</hi> which the Aſſay<g ref="char:EOLhyphen"/>ing of, and Surveying of theſe Manufactures by your Petitioner, will for the future prevent, and the advice and aſſiſtance of the Company of Goldſmiths, will ſtrengthen your Petitioner in this ſervice.</note>
+            </p>
+            <closer>
+               <signed>And your Petitioner ſhall ever pray, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>
+                  <hi>At the Court at</hi> Whitehall <date>
+                     <hi>Jan.</hi> 25. 1634.</date>
+               </dateline>
+            </opener>
+            <list>
+               <head>Preſent.</head>
+               <item>The KINGS moſt Excellent Majeſtie.</item>
+               <item>Lord Archb. of <hi>Cant.</hi>
+               </item>
+               <item>Lord Keeper.</item>
+               <item>Lord Treaſurer.</item>
+               <item>Lord Privie Seale.</item>
+               <item>Lord Duke of Lenox.</item>
+               <item>Lord Mar. Hamilton</item>
+               <item>Earle Marſhall.</item>
+               <item>Lord Ghamberlaine.</item>
+               <item>Earle of Dorſet.</item>
+               <item>Earle of Carliſle.</item>
+               <item>Earle of Holland.</item>
+               <item>Lord Cottington.</item>
+               <item>Lord Newburgh.</item>
+               <item>Mr. Treaſurer.</item>
+               <item>Mr. Comptroller.</item>
+               <item>Mr. Vice Chamberl.</item>
+               <item>Mr. Secretary Coke.</item>
+               <item>Mr. Secret. Windebank</item>
+            </list>
+            <p>
+               <hi>
+                  <seg rend="decorInit">U</seg>Pon Complaint made this day to his Majeſtie, ſitting in Counſel by Sir</hi> Henry Mildmay, <hi>Knight Maſter of the Jewel-houſe, that much of his Majeſties Plate had bin ſtollen, and then melted down into Ingots, and unlawfully ſold, as well to ſundry Goldſmiths as to Refiners. For proof whereof he preſented ſundry de<g ref="char:EOLhyphen"/>poſitions, of which two were read. And up<g ref="char:EOLhyphen"/>on Information given by ſome of the War<g ref="char:EOLhyphen"/>dens and Company of Goldſmiths, (who did this day attend) touching the detriment which ariſeth by the undue pra<g ref="char:EOLhyphen"/>ctices</hi>
+               <pb n="7" facs="tcp:38171:5"/> 
+               <hi>of the ſaid Refiners. Who in ſtead of ſelling Silver Bullion to the ſaid Company of Goldſmiths, or bringing it to the Mint, according to the Statute of the fourth year of</hi> Henry <hi>the ſeventh, do raiſe the ſame in fineneſſe, and utter it to the Wiredrawers, and others of like Trades, at higher rates, then either the Mint can allow, or the Goldſmiths can give. And do thereby cauſe the Conſumption</hi> of a great and exceſſive maſs of gold and ſilver, in thread, ſpangles, and other unneceſſary things. <hi>His Ma<g ref="char:EOLhyphen"/>jeſtie having taken the premiſſes into conſideration, was pleaſed to order and command (with advice of the Board) that the ſaid Sir</hi> Henry Mild<g ref="char:EOLhyphen"/>may <hi>ſhall go to Mr. Attorney General, with the ſaid depoſitions, and what he elſe can produce to that purpoſe. And that the Goldſmiths ſhall likewiſe attend the ſaid Mr. Attorney, with ſuch informations as they have already, or can recover by further Inquirie, (wherein they are to uſe all ſpeed and diligence) And that thereupon Mr. Attorney ſhall pro<g ref="char:EOLhyphen"/>ſecute in a legal way, ſuch as he ſhall finde to be offendors as well Gold<g ref="char:EOLhyphen"/>ſmiths as Refiners, in any of the particulars beforementioned, And cauſe the ſaid Statute (againſt the ſaid Refiners, &amp;c.) to be ſtrictly put in exe<g ref="char:EOLhyphen"/>cution. And ſuch courſe to be preſently taken, that the penalties there<g ref="char:EOLhyphen"/>upon may be recovered againſt ſuch as are or ſhall be found offendors a<g ref="char:EOLhyphen"/>gainſt the ſaid Statute.</hi>
+            </p>
+            <closer>
+               <signed>W. BECHER.</signed>
+            </closer>
+            <postscript>
+               <p>IN Proſecution of the aforeſaid Order, and to bring the Offenders to Juſtice, by order of Mr. <hi>Secretary Cook</hi> and others. Mr. <hi>Alexander Jackſon,</hi> the ſworne Aſſay-Maſter of Goldſmiths Hall, was commanded to make true Aſſay of an hundred and twelve ſeveral parcels of Gold and Silver lace, Spangles, burnt Silver, ſome of this ſilver Lace and Thread, holding in Cop<g ref="char:EOLhyphen"/>per above foure ounces on a pound Troy, ſome 6 <hi>d.</hi> 3 <hi>d.</hi> 2 <hi>d.</hi> worſe then ſterling upon the ounce. This was done in <hi>April</hi> 1635. And in <hi>May</hi> 1639. all theſe parcels of Silver Lace, Purles, Spangles and Thread, made and reported by the aboveſaid Mr. <hi>Alexander Jackſon,</hi> for which ſervice I paid him five pounds, as I have his Receipt and Aſſayes reported under his hand, who is now living, a Gentleman of great experience and credit, and can juſtifie upon his Oath theſe ſeveral parcels of Silver Lace, being all under ſterling; And I have it Atteſted under ſeveral hands, that theſe parcels of Silver Lace was made, uttered, and ſold againſt the Lawes of the Kingdom, and contrary to the Oath of every Freeman of <hi>London,</hi> every Freeman work<g ref="char:EOLhyphen"/>ing any Gold or Silver, doth or ought to ſware to work no Silver in any Ma<g ref="char:EOLhyphen"/>nufacture but ſterling, nor no Gold in Manufacture under Crown Gold, that by the Law all perſons offending ought to be Indited, and ſtand in the Pillory,
+<pb n="8" facs="tcp:38171:6"/> and be fined at the Pleaſure of the Juſtices at the Seſſions, and find Sureties for their good behaviour.</p>
+               <p>I cauſed ſome of theſe offendors that made Silver Lace, Wire and Thread, with a Core of Copper, to be ſet in the Pillory in Cheapſide, and fined at the Seſſions, and cauſed twenty men to run out of the City of <hi>London,</hi> beyond ſeas, for ſelling Silver Lace mixed with Copper, This Sir <hi>George Sands</hi> knoweth to be true, his brother being cozened here in <hi>London</hi> with a great parcel of Silver Lace mixed with Copper, which he paid for as good Silver.</p>
+               <p>If your Majeſtie had not pardoned theſe Abuſes, I could ſet down the par<g ref="char:EOLhyphen"/>ticular names, and mark them to poſterity with a black Impreſſion, of both Silkmen, Wiredrawers, and others, with the number of about fifty Shop<g ref="char:EOLhyphen"/>keepers, who ſold theſe hundred and twelve parcels of courſe counterfeit Lace, Spangles, Thread, Wire, for good Silver, and the year and day they did it, with good witneſſes to prove it, which had they their due, by the Law they ought to ſtand in the Pillory, and make fine and ranſome to your Majeſtie. But I hope for their amendment; yet if required, I can produce to your Maje<g ref="char:EOLhyphen"/>ſties most Honourable Privy Councel their Names with witneſſe.</p>
+            </postscript>
+         </div>
+         <div type="document">
+            <head>
+               <hi>At the</hi> Sub-Committee <hi>of</hi> Parliament, <hi>appointed to take in<g ref="char:EOLhyphen"/>to conſideration the ſeveral petitions of the Refiners of gold and ſil<g ref="char:EOLhyphen"/>ver, the Gold Wyer drawers, the Hand-Spinners with the Charie and Spindle, and the Wheel ſpinners, and of</hi> Thomas Violet <hi>of</hi> London, Goldſmith, <hi>for the due regulation of the Manufa<g ref="char:EOLhyphen"/>ctures of Gold and Silver wyer and thread, purle, oaes, plated wyer, ſpangles, and Copper wyer and thread,</hi> &amp;c. <hi>to prevent the former abuſes practiſed in the ſaid Manufactures: and to prohibit the culling, and melting down the currant Silver coynes of this Nation for the future.</hi>
+            </head>
+            <p>VVE have called before us the Petitioners, and have ſeveral dayes heard this buſineſſe, and upon conſideration had, we do offer as followeth.</p>
+            <p n="1">1. Foraſmuch as it appeared unto us, that ſeveral great abuſes have been, and are daily committed in the culling, and melting down of the currant ſilver coynes, of this Nation: It is therefore offered, as our opi<g ref="char:EOLhyphen"/>nion, that his—and the Parliament, take ſtrict order, by Procla<g ref="char:EOLhyphen"/>mation, or otherwiſe, to reſtrain the melting down of the currant coines
+<pb n="9" facs="tcp:38171:6"/> of this Nation, for the making of theſe Manufactures, or any other ma<g ref="char:EOLhyphen"/>nufacture whatſoever. We have had preſented unto us four Proclama<g ref="char:EOLhyphen"/>tions, two of them in the time of the late King <hi>James</hi> his Reign, and the other two in the time of the late King <hi>Charles:</hi> which Proclamations we have peruſed, and do find in all of them, that the melting down of any of the currant Coines of this Nation is forbidden, upon ſtrict penalties to be laid, and inflicted upon the offenders.</p>
+            <p n="2">2. It is alſo our opinion, that it would be good and benificial to this Commonwealth, if his—and the Parliament would be pleaſed to take order to prevent the daily abuſes practiſed by Artiſts, in the ma<g ref="char:EOLhyphen"/>king of theſe manufactures aforeſaid; And for the diſcovering of theſe frauds for the time to come; And for that end and purpoſe to appoint a ſworn Surveyor, with a Seal, for the ſealing of all gold and ſilver thred, and copper thred, and to appoint punchion irons to be made, to mark all gold and ſilver wyer, that ſhall be imployed or ſpent in any the ſaid manufactures: And the Surveyor, Aſſayer, or Sealer, to put in good ſe<g ref="char:EOLhyphen"/>curity to his—in the Exchequer, in the ſum of 1500 <hi>l.</hi> to warrant all the manufactures ſealed, ſurveyed, and marked, to be good ſilver and gold, according to the ſtandard, and well and duely made; the ſilver and gold thred to contain five ounces <hi>Troy</hi> to a pound weight <hi>Venice,</hi> which is Eight Ounces <hi>Troy,</hi> and one fifth part: And that no gold or ſilver wyer or thread, ſhall be hereafter made and ſold, under ſter<g ref="char:EOLhyphen"/>ling, or before the ſaid gold and ſilver thread, or wyer, be viewed, and ſealed, or ſtamped, upon pain of forfeiture of the ſame to his—: And that ſtrict order and command be given, that no perſon, or perſons, do counterfeit the aforeſaid Seal, or ſtamps which are to be ap<g ref="char:EOLhyphen"/>pointed by his—or the Parliament. The late King, to prevent the aforeſaid abuſes, in the eleventh year of his reign, by Proclamation appointed the Roſe crowned, to be the ſeal, for ſealing this manufacture of gold and ſilver thred; and for the copper gift, and ſilvered thred, the ſeal appointed was the Lion crowned.</p>
+            <p n="3">3. We offer it as our opinion, that all gold and ſilver thread, which ſhall be hereafter made, ſhall hold a due proportion of ſilver to ſilk: <hi>viz.</hi> no gold or ſilver thread be for the time to come made, under five ounces <hi>Troy,</hi> of <hi>sterling</hi> ſilver, to a pound weight <hi>Venice,</hi> upon pain of forfeiture of all the aforeſaid manufactures, which ſhall not be wrought according to the aforeſaid rule. But every work-maſter, and other perſons whom<g ref="char:EOLhyphen"/>ſoever, are allowed to put in as much more ſilver as he or they pleaſe. And this rule being duely obſerved, will prevent all ſlight making of gold and ſilver thread: which will ſave the State in the Bullion of this
+<pb n="10" facs="tcp:38171:7"/> Nation, many thouſand pounds a year, which is now bruſhed and blown away, and comes to nothing.</p>
+            <p n="4">4. We offer it, as our opinion, that the Office of Surveyor, Sealer, or Aſſayer, may be in one perſon, to be reſponſable to the Common<g ref="char:EOLhyphen"/>wealth, for all abuſes in ſealing ſleight and adulterate ſilver thread, or marking courſe ſilver Wyer, under Sterling; to avoid putting and poſt<g ref="char:EOLhyphen"/>ing off one from another, the abuſes, when they are found, either of courſe ſilver wyer, or of courſe gold or ſilver thread, made under Ster<g ref="char:EOLhyphen"/>ling, or not juſtly made, with five ounces of ſilver, <hi>Troy</hi> weight, to a pound <hi>Venice;</hi> That ſo the office being in one perſon, all perſons wrong<g ref="char:EOLhyphen"/>ed may know certainly where, and to whom they may come for their remedy, for all ſilver thread that is ſealed, or ſilver wyer marked or ſtamped in the office, &amp; which ſhall be found courſe and adulterate, or un<g ref="char:EOLhyphen"/>der Sterling, the officer to be bound to make it good, and pay the damage.</p>
+            <p n="5">5. That the Sealers or Surveyers, ſhall cauſe all the ſilver imployed for theſe manufactures, to be duely aſſayed in the Barr, or Ingot, or in the hanck of wyer; and that true Regiſters and Entries be kept of the ſame, both of the quantity, and fineneſſe of every bar of ſilver, or hanck of Wyer diſgroſſed for theſe manufactures. And that the State may have a juſt account what ſilver is ſpent in this manufacture yearly: to that end, all Barrs and Diſgroſſing Irons, be brought to one place: as the late King by his Proclamation ſettled this manufacture, in the ele<g ref="char:EOLhyphen"/>venth year of his reign.</p>
+            <p n="6">6. That all gold and ſilver thread ſhall be made up in skeynes, and not on quills, according to the rules in the late Kings time; as appeares by the Proclamation in the eleventh year of the late King <hi>Charles.</hi> And that at one end of the skeyne there be put the workmans mark, and as the other, tht Surveyors mark, or ſeal, to teſtifie the goodneſſe thereof. And that all Maſter-workmen bring in their names, and their abiding places, and work-houſes, and their ſeals, or marks, to be hung up openly in the office, as was formerly done in 1635. in the Office in <hi>Little Brit<g ref="char:EOLhyphen"/>tain,</hi> upon the penalty and pain of 200 l.</p>
+            <p>And that the Surveyor and his deputies, may be impowered to make ſearches ſo often as he ſhall find occaſion, to ſee all the workers of theſe manufactures, make good, and warrantable gold and ſilver thread and wyer, for all the ſaid manufactures; and to ſeize all courſe and adulterate and ſlight manufactures aforeſaid, for the uſe of his—, where they ſhall be found falſe, or adulterate, or not a due proportion of ſil<g ref="char:EOLhyphen"/>ver to ſilk; or any perſon, or perſons working theſe manufactures,
+<pb n="11" facs="tcp:38171:7"/> whoſe name is not regiſtred in the Office. We leave it to his—and the Parliament, to ſet down what proportion of the ſeizures ſhall go to them that diſcovers the ſame offenders, for their encou<g ref="char:EOLhyphen"/>ragement.</p>
+            <p n="7">7. Whereas upon hearing all parties concerned in the making of gold and ſilver thread, and upon due conſideration of the ſame, finding that the uſe of the Wheeles in making the ſaid Manufacture of gold and ſil<g ref="char:EOLhyphen"/>ver thread, is of great prejudice to the Commonwealth, in the making of ſlight, falſe, and counterfeit ware; and to the utter undoing of ma<g ref="char:EOLhyphen"/>ny thouſands of poor Hand-ſpinners, who make the ſaid Manufacture with the Chair and Spindle: It is therefore the opinion of the ſaid Com<g ref="char:EOLhyphen"/>mittee, that the making of the ſaid Manufacture by the Wheeles, be totally ſuppreſt.</p>
+            <p n="8">8. Foraſmuch as this Committee are ſatisfied, that a great number of ſervant Maids leave their ſervices, and betake themſelves to the Trade of ſilver-ſpinning, lying in private chambers; not only to the impoveriſh<g ref="char:EOLhyphen"/>ing of themſelves, but alſo of thoſe who have been long exerciſed, and brought up in the ſaid Trade, to the utter ruine of the poor people who have ſerved apprentiſhips to this Trade, and their families: It is there<g ref="char:EOLhyphen"/>fore offered as the opinion of this Committee, that from henceforth no perſon, or perſons, either men or women, exerciſe the Trade of making this manufacture, but ſuch who ſhall have ſerved the terme of ſeaven yeares apprentiſhip to the ſaid Trade, or have been exerciſed in the ſame for the terme of ſeaven yeares laſt paſt.</p>
+            <p n="9">9. We offer, that no gold or ſilver lace, or other the manufactures aforeſaid, be made up, or mingled with any Copper gold or ſilver thread, wyer, or plate, under the penalty of one hundred pounds, And that no perſon uſing, or making any copper gold, or copper ſilver wyer, plate, thread, ſpangles, oaes, or any other the manufactures afore<g ref="char:EOLhyphen"/>mentioned, ſhall at the ſame time, make, utter, or ſell any right gold and ſilver, under the penalty of one hundred pounds. And we do like<g ref="char:EOLhyphen"/>wiſe think it neceſſary, that all copper wyer being ſilvered, or gilt, be diſgroſſed all at one place: and the copper thread to be ſealed with a ſeal to be appointed by his—and the Parliament; and the Sur<g ref="char:EOLhyphen"/>veyer of the ſilver thread to be keeper of the ſeal for the copper; as was formerly done by the Regulation in the 11th. of King <hi>Charles.</hi>
+            </p>
+            <p n="10">
+               <q>10. We offer it as the opinion of this Committee, That whereas the Refiners and Wyer-drawers have deſired a Corporation, to regulate
+<pb n="12" facs="tcp:38171:8"/> their Trade, and the numbers, and that interlopers, and ſuch as have no right to the trade, may not peſter their profeſſion; theſe interlopers working unduely in corners: We conceive a Corporation granted to them, with ſeveral reſtrictions, for the juſt, and due Regulation, may be very ſerviceable to the Commonwealth: and ſome of theſe Reſtricti<g ref="char:EOLhyphen"/>ons we here ſet down, the reſt we leave to be added. 1. That this Trade never get a licence to cull, or melt the coynes of the Nation, for making their manufacture. 2. That they may not work any ſilver under the Standard. 3. That they may not work gold or ſilver thread with leſſe ſilver then five ounces <hi>Troy</hi> weight, to a pound <hi>Venice;</hi> for the thin plate of ſilver to a great body of ſilk, being laid on a garment the ſilver is bruſh<g ref="char:EOLhyphen"/>ed, and rubbed away, and there remaines very little ſilver to the melting-pot: and by this fraudulent practice, an incredible ſum of ſilver is waſt<g ref="char:EOLhyphen"/>ed yearly, as hath been affirmed to us by Artiſts, above thirty thouſand pounds a year, which by this Regulation, of putting five ounces <hi>Troy</hi> of ſilver, to a pound <hi>Venice,</hi> will be ſaved in the ſtock of the Nation; and the lace will laſt four times as long, and the ſilver will return all to the melting pot. It is our opinions, that his—have yearly the weight and true value, and fineneſſe of the Standard of all gold and ſil<g ref="char:EOLhyphen"/>ver daily imployed, or ſpent in this manufacture, as they regiſter in the mint and <hi>Goldſmiths-Hall,</hi> the true weight of the plate and moneys; and this Regiſter ſhall be kept and delivered in yearly, by the Sealer and Aſſayer of this manufacture upon oath. And we offer it as our opini<g ref="char:EOLhyphen"/>ons, That if the State will have any good to come of this Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulation, and to be juſtly and faithfully ſerved; then the place of Surveyer, or Sealer and Aſſayer, muſt never be put into the hands of any perſon that is a trader in theſe manufactures, but ſuch a one as hath skill, and is no trader in theſe manufactures; for if he once be a trader, during the time he is Surveyer and Sealer, he will be his own carver, and then he will have a great temptation to be corrupt.</q> 
+               <note place="margin">I humbly be<g ref="char:EOLhyphen"/>ſeech you Ma<g ref="char:EOLhyphen"/>jeſtie to mark well this 10. head.</note>
+            </p>
+            <p n="11">11. We find, upon ſeveral dayes examination of this buſineſs, concern<g ref="char:EOLhyphen"/>ing the Regulation of theſe Manufactures, Mr. <hi>Thomas Violet,</hi> who is under ſequeſtration, who formerly was Surveyer and Sealer in the late Kings time, and hath proſecuted this buſineſs, for many yeares, to have a due Regulation of theſe manufactures, to be a perſon very active, and know<g ref="char:EOLhyphen"/>ing in every part of the myſtery of theſe manufactures. He hath preſent<g ref="char:EOLhyphen"/>ed unto us by proof, atteſted under ſeveral mens hands, the general a<g ref="char:EOLhyphen"/>buſe that was in <hi>London,</hi> in the deceitful making theſe manufactures, and ſelling them for good ſilver, when they were all courſe and adulte<g ref="char:EOLhyphen"/>rate; which cauſed the late King and his Council in 1635 to ſettle that Regulation.</p>
+            <pb n="13" facs="tcp:38171:8" rendition="simple:additions"/>
+            <p>And we are all of opinion, that there is an abſolute neceſſity, for the ſervice and advantage of the Commonwealth, to prevent the frauds daily practiſed in the making theſe Manufactures, that ſuch an office and Officer, for the ſealing, marking, ſurveying, and aſsaying all the a<g ref="char:EOLhyphen"/>foreſaid Manufactures, be appointed, and ſettled for the time to come: and the ſaid Officer to warrant theſe manufactures to the wearers, and Nation in general: and to put in good ſecurity in the Exchequer for doing the ſame, in the ſumme of fifteen hundred pounds, to have this courſe taken. We hold it very fit and neceſſary, for the prevention of all the aforeſaid abuſes, now put on this Commonwealth. And the un<g ref="char:EOLhyphen"/>dertaker ought to have all encouragement in this buſineſſe, being a con<g ref="char:EOLhyphen"/>ſiderable ſervice done to the Nation; moſt eſpecially to ſuch as wear gold and ſilver lace,</p>
+            <p>All which we ſubmit.</p>
+            <closer>
+               <dateline>
+                  <date>16. <hi>June,</hi> 1667.</date>
+               </dateline>
+               <signed>
+                  <hi>This is a true Copy of the ſeveral Votes of the</hi> Sub-Committee, <hi>to whom the Petition of Mr.</hi> Tho<g ref="char:EOLhyphen"/>mas Violet <hi>was referred. Which Votes were ſigned by Mr.</hi> Dunce, <hi>Mr.</hi> Moody, <hi>and Mr.</hi> Clark.</signed>
+               <signed>
+                  <hi>John Martin</hi> Clark to the Committee for Trade.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the Right Honourable, the PARLIAMENT of <hi>England, &amp;c. The humble Petition of</hi> Thomas Violet.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner repreſented the 1. <hi>April</hi> 1650. unto the Parlament then ſitting, that daily great quantities of heavy currant Silver Coines of this Nation, were melted down for the making Gold and Silver Wyer, Lace, Thread, Ribbons, Spangles, <hi>&amp;c.</hi> to the great waſt of the ſtock of the Nation; by which evil practiſes many miſchiefs, cheats, and damages are intruded upon this Common-wealth, which ought ſtrictly to be prevented, and moſt eſpecially in this conjuncture of time, having war<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with <hi>Spain,</hi> and the ſprings of Silver which uſed to flow in to us by Trade, now ſtopped.</p>
+            <pb n="14" facs="tcp:38171:9"/>
+            <p>That great quantities of Gold and Silver Thread, and Lace, is ſlightly, and unduely wrought, to the great deceit of thoſe that weare the ſame, as your Petitioner hath proved in many particulars to the late Committee of Parliament for Trade, to whom that buſineſſe was referred.</p>
+            <p>And they upon many daies Examination, and full hearing of all parties, as by their Certificate of the Committee of Trade hereunto annexed, may more fully appear; have certified the daily great abuſes by the falſe, and deceitful making Gold and Silver Thread and Wyer, the wearers being daily cozened, both in putting into their Silver Thread a ſlight proportion of Silver to ſilk, whereas they ſhould make good ſilver Thread to containe ſix ounces fine ſilver, and two ounces of ſilk to one pound Venice of Silver Thread, and five ounces fine ſilver, and three ounces of ſilk to the ſlighteſt Silver Thread, that ought to be made.</p>
+            <p>Now great quantities of Gold and Silver Thread and Lace, is dayly ſould, which containes five ounces Silk, to three ounces Silver, and four ounces Silver to four ounces ſilk; and many times this Silver Lace is not onely ſlightly and deceitfully made with a leſſe propor<g ref="char:EOLhyphen"/>tion of ſilver to ſilk, then it ought to be, but alſo is made under ſterling ſilver, being mixed with Copper, and the ſilk falſe and de<g ref="char:EOLhyphen"/>ceitfully dyed, which makes the Lace turne black and tarniſh, and ſpoiles the Garment of all perſons that weare the ſame, aſſoon as any wet or aire comes to the Lace.</p>
+            <p>Your Petitioner (the laſt Parliament in <hi>June, anno</hi> 1657. produced Mr. <hi>Alexander Jackſon,</hi> the ſworne Aſſay-Maſter of Goldſmiths Hall, before the Committee for Trade, who being examined, confeſſed that at one time, in the compaſſe of a few weeks, he made Aſſay of above one hundred ſeveral parcels of Gold and Silver Lace, Thread, Spangles, Wyer, which was bought up in ſeveral Shops in <hi>London,</hi> and brought to him by your Petitioner and others; all which ſilver Manufactures was ſould for good Silver, and upon the Aſſaies every ſeveral par<g ref="char:EOLhyphen"/>ſel was found courſe and adultrate, under the Standard, as is atteſted under the hand of Mr. <hi>Alexander Jackſon</hi> ſworne Aſſay-Maſter for the Company of Goldſmiths, which Certificate your Petitioner hath rea<g ref="char:EOLhyphen"/>dy to be produced for your Honours view.</p>
+            <p>It is certified by the Committee of Trade 16. <hi>June</hi> 1657. that they find it affirmed to them by ſeveral Artiſts, that by the ſlight making of Gold and Silver Thread and Lace, there is above thirty thouſand pounds a year waſted and ſpent in this Nation, which by a due re<g ref="char:EOLhyphen"/>gulation of enjoyning all perſons to put at leaſt five ounces fine ſil<g ref="char:EOLhyphen"/>ver to the pound Venice, this Treaſure would all be ſaved in the ſtock
+<pb n="15" facs="tcp:38171:9"/> of this Nation, and the Lace will laſt four times as long, as it now doth, and not turne black, and the ſilver return all to the melting Pot; for great quantities of Silver Lace that is now ſould, the buyers are cozened both in the fineneſſe of the ſilver, being mixed with Cop<g ref="char:EOLhyphen"/>per under Sterling, or paying for ſilver when they buy ſilk heavy dyed, having many times a third part ſilk, more then ought to be put into the ſilver Thread, were it duely made, according to the former Rules 1635. to 1641. The late Sub-Committee for Trade, made ſo large a progreſſe into this buſineſſe, finding it to be of great con<g ref="char:EOLhyphen"/>cernment, ſpent many daies to finiſh their Report, and have certifi<g ref="char:EOLhyphen"/>ed the ſeveral frauds practiſed in the making all theſe Manufactures of Gold and Silver Wyer, Thread, <hi>&amp;c.</hi> And have ſet down Waies and Rules for the preventing the like abuſes for the future.</p>
+            <p>Your Petitioners moſt humble prayer is, that this High Court would be pleaſed to finiſh ſo good a work; and perfect the Regu<g ref="char:EOLhyphen"/>lation of this Manufacture for the future, and that a Law be made, that none of the currant ſilver Coines be hereafter melted for the making any of theſe Manufactures: that no Gold or Silver in Wyer or Lace, be put to ſaile under Sterling: that no Gold or Silver Thread, hold or containe leſſe ſilver then five ounces ſilver to be at the leaſt Sterling, upon ſevere penalties, beſides the defaceing of the Materials.</p>
+            <p>And that your Petitioner be commanded by the Parliament, to ſee to the due Execution, and to receive ſuch fees and allowances, as he is authorized to take by his Patent under the great Seale of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <closer>And your Petitioner ſhall pray, <hi>&amp;c.</hi>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This pretended Parliament referred this Petition to a Committee, and ſhortly after were forced, and diſſolved by the Army. The Rump Parliament ſucceeded them, and promiſed to reforme theſe a<g ref="char:EOLhyphen"/>buſes, but did nothing but promiſe and delay. His</hi> MAJESTY <hi>returning for</hi> England, <hi>upon whoſe bleſſed arival, your Petiti<g ref="char:EOLhyphen"/>oner made this following Petition, and had this gracious Refer<g ref="char:EOLhyphen"/>ence to the Right Honourable the Lords Commiſſioners of the Treaſury: The original Petition is in the custody of Sir</hi> Philip Warwick, <hi>and followes,</hi> viz.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="16" facs="tcp:38171:10"/>
+            <head>TO THE KINGS Moſt Excellent MAJESTY, The humble Petition of <hi>Thomas Violet,</hi> of <hi>London,</hi> Goldſmith,</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner being commanded by your Majeſties Royal Father, in 1643. to bring up his gracious letter to his City of <hi>London,</hi> directed to the Lord Mayor, Aldermen, and all other his well affected Subjects of that City, which letter your Petitioner did bring up to <hi>London,</hi> and was for ſo doing, committed to the Tower, by order of Parliament, where he re<g ref="char:EOLhyphen"/>mained four yeares, and for 928 dayes of that time, kept cloſe priſoner in a diſmal place, little better than a Dungeon: in which time of confine<g ref="char:EOLhyphen"/>ment, your Petitioner expended above 700<hi>l.</hi> and the Parliament ſeque<g ref="char:EOLhyphen"/>ſtred your Petitioner of all his eſtate they could finger, to the value of 11000<hi>l.</hi> and being taken out of all his imployment, to his damage of a<g ref="char:EOLhyphen"/>bove 20000<hi>l.</hi> and could never obtain any part of his eſtate, to his total ruine, without your Majeſty in your mercy relieve him. Your Petitioner proſtrate at your Majeſties feet, preſents to your Majeſtie, the great ſeve<g ref="char:EOLhyphen"/>rity of your Petitioners ſufferings, there never being the like ſad preſident in the Nation, during all theſe diſtracted times, that a man for bringing up a letter of peace from his late Majeſty of glorious memory, ſhould be rui<g ref="char:EOLhyphen"/>ned for obeying his Majeſties commands; the only cauſe of your Petitio<g ref="char:EOLhyphen"/>ners ſequeſtration and ruine being for ſo doing.</p>
+            <p>That upon complaint made by ſeveral perſons, that great quantities of the currant heavy ſilver coynes and plate in this Nation is daily melted, and waſted, for the making of the manufacture of gold and ſilver thread, wyer, and lace, to the great waſte and deſtruction of the ſtock of heavy <hi>Engliſh</hi> money, and great quantities of gold and ſilver tranſported with<g ref="char:EOLhyphen"/>out licence.</p>
+            <p>To prevent theſe abuſes, your Majeſties Royal Father, by the advice of his Privy Counſel, did grant unto your Petitioner for three lives, and the longeſt liver of them, the 7th. day of <hi>September,</hi> in the 14th. year of his late Majeſties reign, a Patent under the great Seal of <hi>England,</hi> for the re<g ref="char:EOLhyphen"/>gulating the aforeſaid abuſes; and granted to them, and the longer liver
+<pb n="17" facs="tcp:38171:10"/> of them, a Seal, being the Roſe and Crown, with a prohibition to all per<g ref="char:EOLhyphen"/>ſons, not to preſume to counterfeit the ſame: Which Seal was for the fealing of all gold and ſilver thread, which they found upon Aſſay, Survey or Tryal, to be made of good ſilver, with a due proportion of ſilver to ſilk. And your Petitioners had by Patent for two lives, four pence the pound weight <hi>Venice,</hi> for warranting all the aforeſaid gold and ſilver thread to be good ſilver, at leaſt Sterling, according to the Standard of this Nation. And thereupon being made up in skeynes, we were to put the aforeſaid ſeal upon it: and by their aforeſaid grant, we were upon the drawing and diſgroſſing of all gold and ſilver wyer, for the making of ſpangles, oaes, purſe, or gold and ſilver thread; upon the aſſaying of the ſaid wyer at the bar, we were to regiſter the weight and fineneſſe: and thereupon your Petitioner to receive one half penny an Ounce for all wyer employed in any the aforeſaid Manufactures; and your Petitioner was impowered to receive all duties impoſed, laid, or to be laid upon any the ſaid manufactures. Upon conſideration of the ſaid Fees, your Petitioner is bound in the Exchequer with good ſecurity in 1500<hi>l.</hi> that all ſilver aſ<g ref="char:EOLhyphen"/>ſayed, ſealed, marked, or ſurveyed, as aforeſaid, was to be fine ſilver, at the leaſt as good as ſterling: Whereas many yeares your Petitioner regula<g ref="char:EOLhyphen"/>ted this manufacture, and cauſed the ſame to be as exactly made, as the coyne, or plate of this Nation, till theſe ſad troubles, when the Parliament ſequeſtred your Petitioner.</p>
+            <closer>
+               <salute>And as in duty bound, your Petitioner ſhall pray for your Majeſties long health and happineſſe.</salute>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Your Petitioners humble prayer is, That your Majeſty would be pleaſed to recommond to the Parliament, or to your Majeſties Commiſſioners of your Treaſury, the reſtraining of the melting of the currant ſilver coynes of this Nation, for the making of any the aforeſaid manufactures, and againſt tranſporting gold and ſilver, and for the due paying of the duties and fees, according to the afoaeſaid Letters Patents: Which will prevent the abuſes daily practiſed and committed: and theſe manufactures ſhall by your Petitioner for the future, be warranted to be good to the wearers, or to pay all dammages to the parties grieved, according as your Petitioner cove<g ref="char:EOLhyphen"/>nanted in the ſaid Letters Patents. And in regard of your Peti<g ref="char:EOLhyphen"/>tioners great ſufferings and loſſes, for doing your Royal Majeſties Fathers ſervice, as aforeſaid; That your Majeſty would be gra<g ref="char:EOLhyphen"/>tiouſly pleaſed, by patent, to make your Petitioner one of your Ma<g ref="char:EOLhyphen"/>jeſties Auditors for the impreſſe, with the ſame fees as Au<g ref="char:EOLhyphen"/>ditor</hi> Beale <hi>and Auditor</hi> Bingly <hi>formerly received: or one of the Tellers of your Majeſties Exchequer, with the uſual fees: or that your Majeſty would be gratiouſly pleaſed to appoint your</hi>
+                  <pb n="18" facs="tcp:38171:11"/> 
+                  <hi>Petitioner ſome Office in the Cuſtome-houſe, or Exciſe; your Petitioner (by the bleſſing of God) and his own induſtry and ex<g ref="char:EOLhyphen"/>perience, will improve your Majesties revenue in the ſaid Offices.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="document">
+            <opener>
+               <dateline>At the Court at <hi>White-Hall,</hi> 
+                  <date>27. <hi>June</hi> 1660.</date>
+               </dateline>
+            </opener>
+            <p>HIs Majeſty being very ſenſible of the Petitioners Loyalty, and ſuf<g ref="char:EOLhyphen"/>ferings, is Gratiouſly pleaſed to refer the Conſideration and Examination of the Aſſertions in this Petition, to the Lords Commiſſioners of his Majeſties Treaſury, who are accordingly to inform and certifie his Majeſty what their Lordſhips conceive fit for his Majeſty to do for relief of the Pe<g ref="char:EOLhyphen"/>titioner, as is deſired: and then his Majeſty will Declare his further Pleaſure concern<g ref="char:EOLhyphen"/>ing the Petitioners humble requeſt.</p>
+            <closer>
+               <signed>ROB. MASON.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>This Original Petition and Reference is in the Hands of Sir</hi> Phil. Warwick.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="19" facs="tcp:38171:11"/>
+            <head>TO THE Right Honourable the Lord High Chan<g ref="char:EOLhyphen"/>cellour of <hi>England,</hi> the Lord High Trea<g ref="char:EOLhyphen"/>ſurer of <hi>England,</hi> the Lord Privy Seal; the Lord <hi>Aſhley</hi> Chancellour of the Ex<g ref="char:EOLhyphen"/>checquer being all of the Committee for removing the obſtructions of the Mint. <hi>The humble Petition of</hi> Thomas Violet <hi>Goldſmith,</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Lordſhips,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I firſt left this aforeſaid Petition with Sir <hi>Philip Warwick,</hi> I was commanded by ſome of your Lord<g ref="char:EOLhyphen"/>ſhips, to bring into the Lords of the Council a draught of a Proclamation againſt tranſporting of Gold and Silver, which I did, which begat a di<g ref="char:EOLhyphen"/>ſpute at the Council of Trade, and a Certificate from them, for the Merchants to have free liberty to Export Gold and Silver without Licence, to have a free Market.</p>
+            <p>Whereupon I thought my ſelf bound by my Allegiance, conſider<g ref="char:EOLhyphen"/>ing how much it did import the honour, ſafety, and welfare of his Ma<g ref="char:EOLhyphen"/>jeſty, and the Lords of His Privy Council, who by the Law can only grant to the Merchants upon their Petition and juſt Reaſons ſhown, leave to tranſport Gold and Silver out of the Kingdome; and I know the miſchiefs which might come to the Kingdome, if this great truſt were left to the Merchants.</p>
+            <p>I did humbly (according to my beſt abilities) ſtate the Kings right, and His Privy Councils by the Law, to have the only liberty to di<g ref="char:EOLhyphen"/>ſpence with the Statutes againſt tranſporting Gold and Silver; which Reaſons was oppoſed by ſome Honourable Gentlemen of the Council of Trade, before his Majeſty and His Privy Council.</p>
+            <p>Sir <hi>George Downing</hi> and others, humbly preſſing Arguments for to have that Royal Flower of the Crown, and to leave it free to the Merchants and others, to tranſport Gold and Silver.</p>
+            <p>Your Petitioner being commanded by his Majeſty to give Sir <hi>George</hi>
+               <pb n="20" facs="tcp:38171:12"/> 
+               <hi>Downing</hi> an anſwer, I was neceſſitated to make a further Reply; and his Majeſty was graciouſly pleaſed not to part with ſo great a power and truſt to any other, then as the Law had inveſted it, his Majeſty and His Privy Council being ſoly the Judges to reſtrain, or licence the tranſ<g ref="char:EOLhyphen"/>porting Gold and Silver, according as they in their wiſdoms thought fit.</p>
+            <p>And ſince in the perſuance of removing ſome obſtructions in the Mint, his Majeſty hath ſet forth three Proclamations, one againſt tranſporting Gold or Silver without leave from his Majeſty; the o<g ref="char:EOLhyphen"/>ther ſetling the Rule of the currant Gold Coine of this Kingdome; and the third decrying down after a certain Day, all Gold and Silver Coines that have been made in <hi>England</hi> ſince 1640. by any authori<g ref="char:EOLhyphen"/>ty whomſoever, without his Majeſties, and His Royal Fathers War<g ref="char:EOLhyphen"/>rant and Proclamation to make them currant. <note place="margin">I ever held it my duty to do the Kings Majeſties buſineſs firſt, and when that was done, humbly to preſent that which hath rela<g ref="char:EOLhyphen"/>tion to my par<g ref="char:EOLhyphen"/>ticular intereſt; &amp; having obey<g ref="char:EOLhyphen"/>ed ſome of your Lordſhips com<g ref="char:EOLhyphen"/>mand; to give the Merchants a reaſon, why His Majeſty could not truſt them with the power to tranſport mo<g ref="char:EOLhyphen"/>ny, but with the inconvenience of the whole Kingdom in ge<g ref="char:EOLhyphen"/>neral. Having done the Kings buſineſs, I now humbly come to your Honours to have the Execu<g ref="char:EOLhyphen"/>tion of this a<g ref="char:EOLhyphen"/>foreſaid office, to Regulate Gold and Silver thread which I have granted unto me under the great Seal of <hi>England</hi> for two lives.</note>
+            </p>
+            <p>May it pleaſe your Lordſhips, your Petitioner being intruſted with the Officers of his Majeſties Mint, and commanded by ſome of your Lordſhips to draw the draft of the Proclamation the 10. of <hi>June</hi> in the thirtenth year of his Majeſties Reign: He intreated the Officers of the Mint to ſpeak with Mr. Attorney General, concerning the great a<g ref="char:EOLhyphen"/>buſes committed by the Corporation of Wiredrawers, in the adultrate, falſe, and ſlight making of Gold and Silver Lace. And ſo inſert it into the Proclamation, that the Kings Majeſty, with the advice of his Privy Council, would take ſpeady Order therein. The words are, <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>That whereas there is daily a great conſumption of the heavy currant Silver Coines of the Kingdome and Bullion, in the unlawful making Gold and Silver Wyer, Thread, Spangles, Ooes, Purles, and Lace of courſe Silver under Sterling; His Majesty doth intend in due time, to take ſuch ſtrict courſe, as ſhall reduce the makers of theſe Manufactures into ſuch Order, that all the a<g ref="char:EOLhyphen"/>buſes formerly put on the Subjects, ſhall for the future be prevented, and theſe Manufactures of Gold and Silver duly regulated and aſſayed, according to the Lawes of the Kingdome.</hi>
+            </p>
+            <p>May it pleaſe your Lordſhips, This Clauſe in his Majeſties Procla<g ref="char:EOLhyphen"/>mation, gave the Alaram to ſome perſons that are Wiredrawers, to in<g ref="char:EOLhyphen"/>gage ſome worthy Gentlemen to be inſtrumental to procure the Wire<g ref="char:EOLhyphen"/>drawers a Corporation from his ſacred Majeſty: and a draught of the Corporation being preſented to the Wiredrawers by ſome perſons, who do undertake to uſe their endeavours for to obtain a Corporation for them, the model preſented was not liked by the Gold Wiredrawers: Therefore the Gentleman deſires the Gold Wiredrawers, that they would alter the model of their Charter of Corporation as they pleaſed; and he would endeavour to get from his Majeſty the Corporation according as the Wiredrawers would have it; for which the Gentleman covenants
+<pb n="21" facs="tcp:38171:12"/> with the Wiredrawers to have from them one half penny the ounce for all Silver Wire imployed to make Lace or Thread, <hi>&amp;c,</hi>
+            </p>
+            <p>May it pleaſe your Lordſhips, this Gentleman that would be tamper<g ref="char:EOLhyphen"/>ing to get a Corporation for the Gold Wiredrawers of <hi>London,</hi> doth not know the former paſſages and proceedings in Parliament touching this very Trade, and the Workers, being Gold Wiredrawers.</p>
+            <p>About the year 1618. one Sir <hi>John Michael,</hi> and Sir <hi>Giles Monperſons</hi> together with the then Attorney General, which I take it to be Attorney General <hi>Elverton,</hi> combined together, and for a ſome of money, procu<g ref="char:EOLhyphen"/>red the Gold Wiredrawers a Corporation by ſineſter information to King <hi>James,</hi> which Corporation was complained of the next Parliament as a great abuſe, and cozenage of theſe Wiredrawers of the Kingdome, openly ſhown to the Prince, and Lords, in the Houſe of Lords, and by Act of Parliament their Corporation was damned, Sir <hi>Giles Monperſons,</hi> Sir <hi>John Michael</hi> being ſentenced by Parliament for this Corporation, the Attorney General hardly eſcaped: I humbly referre my ſelf to the Records of Parliament; which may be a warning for any, to have a care what they do, in going about to get theſe Wiredrawers a Corporation, let them remember Sir <hi>Giles Monperſons.</hi>
+            </p>
+            <p>May it pleaſe your Lordſhips, your humble Petitioner hath his Maje<g ref="char:EOLhyphen"/>ſties Royal Fathers Grant under the great Seal of <hi>England,</hi> Dated the 7. of <hi>Sept.</hi> in the fourtenth year of his Majeſties Royal Father Reign, for two lives yet in being, his own life, and another, and the longer liver to warrant all theſe Manufactures to the wearers, and to receive one half penny the ounce upon all Wire Aſſayed or Sealed; and four pence the pound Venice for Gold or Silver Thread for ſealing it, and warrant<g ref="char:EOLhyphen"/>ing it to the wearers to be good, with a due proportion of Silver to Silk; which his Majeſties Royal Father gave to your Petitioner for two thouſ<g ref="char:EOLhyphen"/>and pounds his Majeſty owed your Petitioner, for all his ſervice and charges in ſpending above two thouſand pounds to cauſe the tranſporters of Gold and Silver to be fined in the Star Chamber, and ſentenced by the Lords, ſuch Perſons and ſuch Fines ſet upon them as followeth, 13. <hi>Caroli.</hi> in the <hi>Star-Chamber. viz,</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>Charles Frank</hi>
+                     </cell>
+                     <cell>4000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Ellis</hi>
+                     </cell>
+                     <cell>4000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaac Romeere</hi>
+                     </cell>
+                     <cell>3000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jacob Delew</hi>
+                     </cell>
+                     <cell>1000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Fletcher</hi>
+                     </cell>
+                     <cell>1000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rich. Cockrem</hi>
+                     </cell>
+                     <cell>1000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Parrat</hi>
+                     </cell>
+                     <cell>2000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Peter Herne</hi>
+                     </cell>
+                     <cell>2000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Terry</hi>
+                     </cell>
+                     <cell>2000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Timothy Eman</hi>
+                     </cell>
+                     <cell>2000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſaac Brames</hi>
+                     </cell>
+                     <cell>1000<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Futter</hi>
+                     </cell>
+                     <cell>500<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Sweeting</hi>
+                     </cell>
+                     <cell>500<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Perrin</hi>
+                     </cell>
+                     <cell>100<hi rend="sup">l</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>The totall of the ſaid Fines amount to the ſumme of</hi> 24100<hi rend="sup">l</hi>.</p>
+            <pb n="22" facs="tcp:38171:13"/>
+            <p>At this day there wants a high Court of Star Chamber, to puniſh the tranſporters of Gold and Silver, and ſome Goldſmiths that furniſh them with gold. This ſentence did this good in the City of <hi>London,</hi> that for ſeven years after, from 1635, to 1642. that the Merchants were affraid to tranſport Gold or Silver; and the Mint conſtantly was kept on work, till theſe late troubles that overturned all things. <note place="margin">
+                  <hi>I ſhall humbly de<g ref="char:EOLhyphen"/>ſire that your Lord<g ref="char:EOLhyphen"/>ſhip would be pleaſed to take no<g ref="char:EOLhyphen"/>tice, that though his Majeſty by his Proclamation hath called upon Gold, a twenty ſhilling piece to go for</hi> 21 <hi>ſhillings</hi> 4 <hi>pence, and ſo ra<g ref="char:EOLhyphen"/>tably: yet ſome goldſmiths do take the houldneſs to give</hi> 21 <hi>ſhillings</hi> 8 <hi>pence,</hi> 21 <hi>ſhill.</hi> 9 <hi>pence, and</hi> 21 <hi>ſhillings</hi> 10 <hi>pence. And this Gold is bought up by the Sectaries, either to tranſport, or elſe to hoard up for ſome bad deſign: His Majeſtie and your Lordſhips had need to he vigilent over theſe Fanaticks, they are daily working &amp; hatch<g ref="char:EOLhyphen"/>ing, God grant this Ceckatriſe be watched.</hi>
+               </note>
+            </p>
+            <p>Your Petitioners humble prayer is, that by your Lordſhips Juſtice for his Majeſties ſervice, this Manufacture be put under ſome ſtrict Rule and Order, and that nothing may paſſe under your Lordſhips hands that may prejudice your Petitioners Grant which he hath under the great Seal of <hi>England,</hi> for the regulateing the ſaid Manufacture.</p>
+            <p n="1">1. I have humbly to recommend to your Honours great wiſdom, the due conſideration of theſe ſeveral following Heads, and humbly leave them at your Honours feet; and though they may not pleaſe the Wire<g ref="char:EOLhyphen"/>drawers, yet I am ſure they be for his Majeſties ſervice. It is true, there is twenty thouſand ſouls in <hi>London,</hi> live, and have dependance on this Manufacture, and that made King <hi>James</hi> and King <hi>Charles</hi> ſuffer this Manufacture to be made here.</p>
+            <p n="2">2. My good Lords, it is worthy of conſideration, the great damage his Majeſty ſuſtains in the loſſe of his Cuſtomes, the loſſe and preju<g ref="char:EOLhyphen"/>dice of his Majeſties Mint, by ſuffering the Silver after it is imported into this Kingdome, to be made into Silver Lace, <hi>&amp;c.</hi> to be diverted from Coyn, which would pay a duty of coynage, and augment the ſtock of the Kingdome, which is now converted into this Manufacture: the valew imployed in Gold and Silver yearly, is about one hundred thou<g ref="char:EOLhyphen"/>ſand pounds a year in Gold and Silver Lace, Wire, <hi>&amp;c.</hi> which was it con<g ref="char:EOLhyphen"/>verted into Coine every year, and ſo paſſed between men, would drive a million for commodities a year in Trade, to the great improvement of the Kingdome by Commerce and Trade.</p>
+            <p n="3">3. That upon calculation it will be found, the King in point of Cuſtomes and other Profits, loſes above ten thouſand pounds a year, by ſuffering this Manufacture to be made in <hi>England,</hi> as will appear upon calculation of his Majeſties Book of Rates of his Cuſtomes.</p>
+            <p n="4">4. That at this day there is no Exciſe laid on this Commodity, which un<g ref="char:EOLhyphen"/>der favour, humbly ſubmitting to your great wiſdomes, is a Commodity may bear an Exciſe as well, and better, than almoſt any thing in the Kingdome: gold and ſilver Lace is a ſuperfluity, and it is the wearers payes the Exciſe, not the Silkmen, Wiredrawers, or other Tradeſmen: this Trade his Majeſty doth allow in favour of the poor women Spinners, and other poor people, that are above twenty thouſand ſouls, who only have their livelyhood from this Manufacture, or elſe for the reaſons aforeſaid, it would not be allowed to be wrought in <hi>England.</hi>
+            </p>
+            <pb n="23" facs="tcp:38171:13"/>
+            <p n="5">5. Therefore my humble Petition to your Lordſhips is, in regard your Lordſhips are of the Committee for the removing the obſtructions of the Mint, that your Lordſhips ſettle ſuch an Exciſe on this Manufacture, at the leaſt two pence the Ounce, being ſo much as his Majeſty loſeth in the coynage of the ſame, to be approved and confirmed by the Parliament, for and towards his Majeſties loſſe in His Cuſtomes, and in his Coynage, by ſuffering this Manufacture to be wrought in <hi>England.</hi>
+            </p>
+            <p n="6">6. That your Lordſhip would Order for the future, that no inferiour perſons, as Servants, Maids, and other mechanick People, ſhall weare gold or ſilver Lace, it being an abuſe to perſons of honour, men and women, to have mechanick People and Servants to weare Gold and Silver Lace.</p>
+            <p n="7">7. That your Lordſhips would be pleaſed, for the ſervice of his Maje<g ref="char:EOLhyphen"/>ſty, and good of all the wearers of gold and ſilver Lace, which are the Nobility and Gentry of the Kingdome, to require the Company of Gold<g ref="char:EOLhyphen"/>ſmiths to conſider of ſuch waies and means as they can adde, or alter, either out of the former Regulation ſetled by his Majeſty 1635. or out of their own knowledg and experience by any other Way or Rules, and to uſe all ſpeed they can therein.</p>
+            <p n="8">8. The Company of Goldſmiths have declared to me before a Court of Aſſiſtants, that they know there is many abuſes in this Trade, and if they be required from his Majeſty, or your Lordſhips of the Privy Council, they would be very ready and willing, humbly to conſider of ſuch Waies for the prevention of theſe abuſes for the future: and upon your Lord<g ref="char:EOLhyphen"/>ſhips approbation ot alteration of what they ſhall propound, that thoſe Orders and Rules agreed upon by your Honours for the Regulating of this Trade, may be recommended by his Maieſty to be confirmed by Parlia<g ref="char:EOLhyphen"/>ment, and this will be a certain way to prevent theſe abuſes for the future, when the reſtraints and puniſhments ſhall be ſetled by Act of Parliament.</p>
+            <closer>
+               <hi>And ſo as in duty bound, your Petitioner ſhall daily pray.</hi>
+            </closer>
+            <postscript>
+               <p>THat after ages, and all true Engliſhmen may ſee the cruel op<g ref="char:EOLhyphen"/>preſſion I ſufferd under, for being faithful to his ſacred Majeſty King <hi>Charles</hi> the firſt, for bringing up to <hi>London</hi> from <hi>Oxford</hi> to the Lord Mayor and Aldermen of the City of <hi>London,</hi> by his Majeſties eſpecial command to me, 1643. this his Majeſties letter: which was, as followeth,</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="document">
+            <pb n="24" facs="tcp:38171:14"/>
+            <head>
+               <hi>To our Truſty and welbeloved, Our Lord Mayor and Aldermen of Our City of</hi> London, <hi>and all other our well affected Subjects of that Ctiy</hi>
+            </head>
+            <opener>
+               <signed>C. R.</signed>
+            </opener>
+            <p>TRuſty and welbeloved, We great you well. When we remember the many acts of grace and favour We and Our Royal Predeceſſours have conferred upon that our City of <hi>London,</hi> and the many Examples of eminent du<g ref="char:EOLhyphen"/>tie and loyalty, for which that City hath been likewiſe famous, We are willing to believe, notwithſtanding the great defection We have found in that place, that all men are not ſo far degenerated from their affection to us and to the peace of the Kingdome, as to deſire a continuance of the miſeries they now feel; and there<g ref="char:EOLhyphen"/>fore being informed, that there is a deſire in ſome principal perſons of that City to preſent a Petition to us, which may tend to the procuring a good underſtanding between <g ref="char:V">Ʋ</g>s and that Our City, whereby the peace of the whole Kingdome may be procured: We have thought fit to let you know, That We are ready to receive any ſuch Petition, and the perſons who ſhall be appointed to preſent the ſame to <g ref="char:V">Ʋ</g>s, ſhall have a ſafe conduct; and you ſhall aſſure all Our good Subjects of that Our City, whoſe hearts are touched with any ſenſe of duty to <g ref="char:V">Ʋ</g>s, or of Love to the Religion and Lawes eſtabliſhed, in the quiet and peaceable Fruition whereof they and their Anceſtors have enjoyed ſo great Happineſſe, That We have nei<g ref="char:EOLhyphen"/>ther paſsed any Act, nor made any Profeſſion or Proteſtation for the maintenance and Defence of the true proteſtant Religion, and the liberties of the Subject, which We will not moſt ſtrictly and Religiouſly obſerve; and for the which we will not be alwaies ready to give them any ſecurity can be deſired. And of theſe Our Gracious Letters We expect a ſpeedy Anſwer from you. And ſo We bid you farewell.</p>
+            <p>
+               <hi>Given at our Court at Oxford, in the</hi> 19. <hi>year of Our Reign.</hi> 26. De. 1643.</p>
+            <closer>
+               <signed>By his Majeſties Command. George Digbie.</signed>
+
+               <signed>Thomas Violet.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>
+                  <hi>LEt any true Engliſh man conſider of this his Majeſties gracious Letter, and then remember the bloudy Tragedies that followed, for the ſins of the Kingdome; and every honeſt man will ſay, the ſwaying party in that Parliament in</hi> Jan. 1643. <hi>were great Tyrants and Oppreſſers, or elſe they would never have kept me in a Dungeon, in the Tower,</hi> 928 <hi>dayes, and plundered and robbed me, to the value of eleven thouſand pound, for bring<g ref="char:EOLhyphen"/>ing up this Letter from the Kings Majeſty from</hi> Oxford, <hi>to the Lord Mayor and Aldermen of the City of</hi> London: <hi>but he is well kept, that God keeps. So I have ever juſt cauſe to ſay: and praiſe God for my miraculous de<g ref="char:EOLhyphen"/>liverance from thoſe bloudy men.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
